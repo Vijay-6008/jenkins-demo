@@ -1,18 +1,15 @@
-# My First GitHub Project
+# Student Management System (Java)
 
-This is a simple Python project that greets the user.
+A simple console-based Java project to manage student records.
+
+## Features
+- Add student
+- View students
 
 ## How to Run
 
-1. Clone the repository:
-   git clone https://github.com/your-username/my-project.git
+1. Compile:
+   javac src/*.java
 
-2. Navigate to the folder:
-   cd my-project
-
-3. Run the script:
-   python main.py
-
-## Example Output
-Enter your name: John  
-Hello, John! Welcome to GitHub.
+2. Run:
+   java -cp src Main
